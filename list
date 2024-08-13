@@ -1,0 +1,14 @@
+bug found is when we enter the name of the player emtpy it is not showing any winning condition for that player.
+give chance to the player who decide whome to won first
+next bug id when both player dont put there name then?
+
+in empty condition take one more variable for the symbol and put it
+
+
+1) how board adjusted at the center.
+2) how symbols update
+3) box for the names
+4) edit save button
+5) how the log appears
+6) how popup handled and removed
+7)
